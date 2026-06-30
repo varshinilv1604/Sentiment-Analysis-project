@@ -1,4 +1,4 @@
-# 💬 Sentiment Analysis (Round 1)
+# Sentiment Analysis 
 
 A machine learning project that classifies chat messages into sentiment categories (positive, neutral, negative) using bag-of-words and word-embedding based approaches, comparing Logistic Regression, Decision Tree, and Word2Vec-based models.
 
